@@ -1,0 +1,16 @@
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Electric shop managemnet system.exe.config
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Electric shop managemnet system.exe
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Electric shop managemnet system.pdb
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Electric shop managemnet system.xml
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric shop managemnet system.vbprojResolveAssemblyReference.cache
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric_shop_managemnet_system.Form1.resources
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric_shop_managemnet_system.Resources.resources
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric shop managemnet system.vbproj.GenerateResource.Cache
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric shop managemnet system.exe
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric shop managemnet system.xml
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric shop managemnet system.pdb
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Google.Protobuf.dll
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\MySql.Data.dll
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\Google.Protobuf.xml
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\bin\Debug\MySql.Data.xml
+C:\VB.net project 4 sem\Electric shop managemnet system\Electric shop managemnet system\obj\Debug\Electric_shop_managemnet_system.Form2.resources
